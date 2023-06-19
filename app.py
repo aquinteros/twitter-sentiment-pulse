@@ -133,7 +133,7 @@ def run():
 		url="https://github.com/aquinteros/twitter-sentiment-pulse"
 	)
 	
-	with st.expander("Citación"):
+	with st.expander("Referencia pysentimiento"):
 		st.markdown("""
 		```
 		@misc{perez2021pysentimiento,

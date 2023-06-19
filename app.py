@@ -111,8 +111,8 @@ def run():
 		st.download_button('Descarga Tweets en parquet', tweets_list.to_parquet(), "tweets_" + concept + ".parquet", "application/octet-stream", key='download-parquet')
 	
 	st.markdown("""
-		Got any questions? \n
-		Email me at: \n
+		¿Tienes preguntas? \n
+		Envíame un correo: \n
 		"""
 	)
 
@@ -123,7 +123,7 @@ def run():
 	)
 
 	st.markdown("""
-		Or open an issue in the GitHub repo: \n
+		O abre un issue en el repositorio de github: \n
 		"""
 	)  
 

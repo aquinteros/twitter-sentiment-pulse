@@ -64,6 +64,9 @@ def get_tweets(concepto, start_date, end_date, progressbar, lang = 'es', max_twe
 			'user_verified': 'boolean',
 			# 'inReplyToTweetId': 'string'
 		}
+		
+		if len(tweets_list) == 0:
+			return pd.DataFrame(columns=tweets_list[0].keys()).astype(dtypes)
 
 		if progressbar:
 			progressbar.progress(i / (max_tweets + 1))

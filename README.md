@@ -5,3 +5,5 @@ pudiendo categorizarlos en su polaridad de sentimiento (positivo, negativo y neu
 como también en su emoción identificada (others, joy, sadness, anger, surprise, disgust, fear)
 
 Premite descargar los resultados en csv y parquet
+
+Puedes probarla en streamlit: (https://twitter-sentiment-pulse.streamlit.app/)[https://twitter-sentiment-pulse.streamlit.app/]

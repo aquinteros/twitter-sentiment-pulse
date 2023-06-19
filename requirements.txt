@@ -7,5 +7,5 @@ tqdm
 fastparquet
 plotly
 pysentimiento
-accelerate -U
+accelerate
 git+https://github.com/JustAnotherArchivist/snscrape.git

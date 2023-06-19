@@ -130,7 +130,7 @@ def run():
 	mention(
 		label="asdsasdas",
 		icon="github",
-		url="https://github.com/aquinteros/wiki-summarize"
+		url="https://github.com/aquinteros/twitter-sentiment-pulse"
 	)
 	
 	with st.expander("Citación"):

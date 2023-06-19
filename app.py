@@ -128,7 +128,7 @@ def run():
 	)  
 
 	mention(
-		label="asdsasdas",
+		label="twitter-sentiment-pulse",
 		icon="github",
 		url="https://github.com/aquinteros/twitter-sentiment-pulse"
 	)

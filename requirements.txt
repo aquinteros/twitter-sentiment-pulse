@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+streamlit-extras
+snscrape
+tqdm
+fastparquet
+plotly
+pysentimiento
+accelerate -U
+git+https://github.com/JustAnotherArchivist/snscrape.git

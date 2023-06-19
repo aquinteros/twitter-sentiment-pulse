@@ -6,4 +6,4 @@ como también en su emoción identificada (others, joy, sadness, anger, surprise
 
 Premite descargar los resultados en csv y parquet
 
-Puedes probarla en streamlit: [https://twitter-sentiment-pulse.streamlit.app/]
+Puedes probarla en streamlit: (https://twitter-sentiment-pulse.streamlit.app/)[https://twitter-sentiment-pulse.streamlit.app/]
